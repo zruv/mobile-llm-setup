@@ -1,4 +1,4 @@
-# Mobile AI Setup Guide: Qwen, BharatGPT & Friends
+# Mobile AI Setup Guide: Qwen, BharatGPT & More
 
 This guide explains how to run powerful, multilingual Large Language Models (LLM) locally on an Android phone using Termux.
 
